@@ -315,4 +315,17 @@ https://webudit.hlsjs.ru/lb/premium454/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium455/index.m3u8
 
+#EXTINF:-1,test 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium3/index.m3u8
 
+#EXTINF:-1,test 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium5/index.m3u8
+
+#EXTINF:-1,test 67
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium6/index.m3u8
