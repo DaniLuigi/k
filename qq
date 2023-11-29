@@ -57,7 +57,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/mani
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://canalcocina.es/images/canalcocina.png" ,Canal Cocina
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="M ESTILO DE VIDA",Canal De casa
+#EXTINF:-1 tvg-id="Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png",Canal De casa
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" ,COSMO
