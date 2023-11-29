@@ -15,10 +15,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manife
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d53a672aa235d949d8cb5c82a.png" ,La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d53a672aa235d949d8cb5c82a.png", TV madrid
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d53a672aa235d949d8cb5c82a.png",TV madrid
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png", Aragón TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png",Aragón TV
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:114_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,Á Punt
@@ -27,40 +27,46 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:213_HD.smil/mani
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" ,13 TV
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" , 24 Horas
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FOX_ESPA%C3%91A_LOGO.png/800px-FOX_ESPA%C3%91A_LOGO.png" ,FOX
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" ,24 Horas
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:12_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png", AMC Break
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="ext" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" , AMC Crime
+#EXTINF:-1 tvg-id="ext" tvg-name="ext" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" ,AMC Crime
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:103_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SOMOS" ,Somos
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/ATRESERIES_176x122.png" ,Atreseries
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png", BE MAD
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png",BE MAD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BuenViaje" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png", BuenViaje
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BuenViaje" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png",BuenViaje
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://canalcocina.es/images/canalcocina.png", Canal Cocina
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://canalcocina.es/images/canalcocina.png" ,Canal Cocina
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="M ESTILO DE VIDA", Canal De casa
+#EXTINF:-1 tvg-id="Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="M ESTILO DE VIDA",Canal De casa
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" ,COSMO
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Divinity" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png", Divinity
+#EXTINF:-1 tvg-id="Divinity" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png",Divinity
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png", Dmax
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png",Dmax
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS",DKISS
@@ -75,16 +81,16 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manif
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Nova" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png", Nova
+#EXTINF:-1 tvg-id="Nova" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png",Nova
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="MOVISTAR +", Mega
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png",Mega
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ten" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png", Ten
+#EXTINF:-1 tvg-id="ten" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png",Ten
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Historia" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST", Historia
+#EXTINF:-1 tvg-id="Historia" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST",Historia
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner TV
@@ -98,3 +104,24 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manife
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" ,GOL PLAY
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SUNDAN" ,Sundance
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SCI-FI" ,SYFY
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TCM" ,TCM
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HOLLYW",Hollywood
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" ,Paramount Network
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CL13" ,Calle 13
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PCM", Comedy Central
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/manifest.mpd
