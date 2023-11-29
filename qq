@@ -1,331 +1,100 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTINF:-1,gol play
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium530/index.m3u8
-
-#EXTINF:-1,test 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium531/index.m3u8
-
-#EXTINF:-1,test 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium532/index.m3u8
-
-#EXTINF:-1,test 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium533/index.m3u8
-
-#EXTINF:-1,la sexta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium534/index.m3u8
-
-#EXTINF:-1,test 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium535/index.m3u8
-
-#EXTINF:-1,test 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium525/index.m3u8
-
-#EXTINF:-1,test 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium524/index.m3u8
-
-#EXTINF:-1,test 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium523/index.m3u8
-
-#EXTINF:-1,test 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium522/index.m3u8
-
-#EXTINF:-1,test 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium521/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium520/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium519/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium518/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium517/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium516/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium515/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium514/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium513/index.m3u8
-
-#EXTINF:-1,polno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium512/index.m3u8
-
-#EXTINF:-1,test 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium511/index.m3u8
-
-#EXTINF:-1,test 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium510/index.m3u8
-
-#EXTINF:-1,test 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium509/index.m3u8
-
-#EXTINF:-1,test 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium508/index.m3u8
-
-#EXTINF:-1,test 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium507/index.m3u8
-
-#EXTINF:-1,test 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium506/index.m3u8
-
-#EXTINF:-1,test 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium505/index.m3u8
-
-#EXTINF:-1,test 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium504/index.m3u8
-
-#EXTINF:-1,test 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium503/index.m3u8
-
-#EXTINF:-1,test 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium502/index.m3u8
-
-#EXTINF:-1,test 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium501/index.m3u8
-
-#EXTINF:-1,test 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium500/index.m3u8
-
-#EXTINF:-1,test 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium300/index.m3u8
-
-#EXTINF:-1,test 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium301/index.m3u8
-
-#EXTINF:-1,test 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium302/index.m3u8
-
-#EXTINF:-1,test 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium303/index.m3u8
-
-#EXTINF:-1,test 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium304/index.m3u8
-
-#EXTINF:-1,test 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium305/index.m3u8
-
-#EXTINF:-1,test 40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium306/index.m3u8
-
-#EXTINF:-1,test 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium437/index.m3u8
-
-#EXTINF:-1,test 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium435/index.m3u8
-
-#EXTINF:-1,test 43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium434/index.m3u8
-
-#EXTINF:-1,test 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium433/index.m3u8
-
-#EXTINF:-1,test 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium432/index.m3u8
-
-#EXTINF:-1,test 46
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium431/index.m3u8
-
-#EXTINF:-1,test 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium430/index.m3u8
-
-#EXTINF:-1,test 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium439/index.m3u8
-
-#EXTINF:-1,test 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium440/index.m3u8
-
-#EXTINF:-1,test 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium441/index.m3u8
-
-#EXTINF:-1,test 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium442/index.m3u8
-
-#EXTINF:-1,test 52
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium443/index.m3u8
-
-#EXTINF:-1,test 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium444/index.m3u8
-
-#EXTINF:-1,test 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium445/index.m3u8
-
-#EXTINF:-1,test 55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium446/index.m3u8
-
-#EXTINF:-1,test 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium447/index.m3u8
-
-#EXTINF:-1,test 57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium448/index.m3u8
-
-#EXTINF:-1,test 58
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium449/index.m3u8
-
-#EXTINF:-1,test 59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium450/index.m3u8
-
-#EXTINF:-1,test 60
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium451/index.m3u8
-
-#EXTINF:-1,test 61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium452/index.m3u8
-
-#EXTINF:-1,test 62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium453/index.m3u8
-
-#EXTINF:-1,test 63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium454/index.m3u8
-
-#EXTINF:-1,test 64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium455/index.m3u8
-
-#EXTINF:-1,test 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium3/index.m3u8
-
-#EXTINF:-1,test 66
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium5/index.m3u8
-
-#EXTINF:-1,test 67
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium6/index.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" ,La 1
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" ,La 2
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" ,Antena 3
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" ,Cuatro
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d53a672aa235d949d8cb5c82a.png" ,La Sexta
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_d53a672aa235d949d8cb5c82a.png", TV madrid
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png", Aragón TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:114_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,Á Punt
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:213_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" ,13 TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" , 24 Horas
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:12_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png", AMC Break
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ext" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" , AMC Crime
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:103_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/ATRESERIES_176x122.png" ,Atreseries
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png", BE MAD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BuenViaje" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png", BuenViaje
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://canalcocina.es/images/canalcocina.png", Canal Cocina
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="M ESTILO DE VIDA", Canal De casa
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" ,COSMO
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Divinity" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png", Divinity
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png", Dmax
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS",DKISS
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ENERGY" ,Energy
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" ,Factoría de Ficción
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nova" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png", Nova
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="MOVISTAR +", Mega
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ten" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png", Ten
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Historia" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST", Historia
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png" ,XTRM
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" ,Teledeporte
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" ,GOL PLAY
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd
